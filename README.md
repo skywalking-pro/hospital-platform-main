@@ -1,8 +1,6 @@
 # Java-医院管理系统-毕业设计 
 
-
 ------------
-
 
 ![登陆界面](https://skywalking.pro/download/images/hospital-platform/WX20230217-144750@2x.png "登陆界面.png")
 
@@ -13,8 +11,7 @@
 
 ![联系作者](https://skywalking.pro/download/platform/main-platform.png "联系作者.png")
 
- **这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者。**  
- **17001380020 微信同号**  
+**这是作者的微信二维码，如需本项目源代码，可扫码或者VX:SkywalkingPro联系作者。**  
 
 ![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
 
@@ -53,8 +50,8 @@
 1. 适合作为高校毕业设计。
 2. 适合作为初学者学习使用。
 3. 如果场景适合，可以作为商业使用。
-### 联系作者
-#### 微信号: SkywalkingPro
+
+
 #### 系统演示地址:
 ```
 登录地址: https://www.skywalking.pro/hospital-platform
@@ -151,6 +148,7 @@
 
 ![患者管理](https://skywalking.pro/download/images/hospital-platform/WX20230217-152402@2x.png
  "患者管理")
+ 
 ![患者新增](https://skywalking.pro/download/images/hospital-platform/WX20230217-152437@2x.png
  "患者新增")
  
@@ -231,7 +229,6 @@
 ![留言信息](https://skywalking.pro/download/images/hospital-platform/WX20230217-160129@2x.png "留言信息.png")
 
 ![新增留言](https://skywalking.pro/download/images/hospital-platform/WX20230217-160129@2x.png "新增留言.png")
-
 
 #### 系统功能模块概要
 + 系统登陆
@@ -396,10 +393,12 @@
 
 ####  **联系作者** 
 
- **这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者。**  
- **   17001380020 微信同号**  
+![联系作者](https://skywalking.pro/download/platform/main-platform.png "联系作者.png")
+
+**这是作者的微信二维码，如需本项目源代码，可扫码或者VX:SkywalkingPro联系作者。**  
 
 ![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
+
 
 #### 安装教程
 
