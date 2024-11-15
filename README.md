@@ -159,8 +159,7 @@
 
 ![系统用户](https://skywalking.pro/download/images/hospital-platform/WX20230217-150218@2x.png "系统用户.png")
 
-![系统用户](https://skywalking.pro/download/images/hospital-platform/WX20230217-150248@2x.png
- "系统用户编辑.png")
+![系统用户](https://skywalking.pro/download/images/hospital-platform/WX20230217-150248@2x.png "系统用户编辑.png")
 
 #### 系统监控模块
 
@@ -172,27 +171,21 @@
 
 - 患者管理
 
-![患者管理](https://skywalking.pro/download/images/hospital-platform/WX20230217-152402@2x.png
- "患者管理")
+![患者管理](https://skywalking.pro/download/images/hospital-platform/WX20230217-152402@2x.png "患者管理")
  
-![患者新增](https://skywalking.pro/download/images/hospital-platform/WX20230217-152437@2x.png
- "患者新增")
+![患者新增](https://skywalking.pro/download/images/hospital-platform/WX20230217-152437@2x.png "患者新增")
  
 - 病历列表
 
-![病历列表](https://skywalking.pro/download/images/hospital-platform/WX20230217-152613@2x.png
- "病历列表")
+![病历列表](https://skywalking.pro/download/images/hospital-platform/WX20230217-152613@2x.png "病历列表")
  
-![病历编辑](https://skywalking.pro/download/images/hospital-platform/WX20230217-152702@2x.png
- "病历编辑")
+![病历编辑](https://skywalking.pro/download/images/hospital-platform/WX20230217-152702@2x.png "病历编辑")
 
 - 科室管理
 
-![科室管理](https://skywalking.pro/download/images/hospital-platform/WX20230217-152812@2x.png
- "科室管理")
+![科室管理](https://skywalking.pro/download/images/hospital-platform/WX20230217-152812@2x.png  "科室管理")
 
-![科室编辑](https://skywalking.pro/download/images/hospital-platform/WX20230217-152849@2x.png
- "科室编辑")
+![科室编辑](https://skywalking.pro/download/images/hospital-platform/WX20230217-152849@2x.png  "科室编辑")
 
 - 护士管理
 
